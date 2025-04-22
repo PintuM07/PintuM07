@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pintum07" alt="pintum07" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pintumahato07" target="blank"><img src="https://img.shields.io/twitter/follow/pintumahato07?logo=twitter&style=for-the-badge" alt="pintumahato07" /></a> </p>
-
 - 🔭 I’m currently working on [Youtube-Video-Downloader](https://github.com/PintuM07/Youtube-Video-Downloader)
 
 - 🌱 I’m currently learning **various technologies**
