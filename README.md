@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pintu</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pintum07&label=Profile%20views&color=0e75b6&style=flat" alt="pintum07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pintum07" alt="pintum07" /></a> </p>
-
 - 🔭 I’m currently working on [Youtube-Video-Downloader](https://github.com/PintuM07/Youtube-Video-Downloader)
 
 - 🌱 I’m currently learning **various technologies**
