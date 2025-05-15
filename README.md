@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pintu Mahato</h1>
+<h1 align="center">Hi 👋, I'm Pintu</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 🔭 I’m currently working on  [Youtube-Video-Downloader](https://github.com/PintuM07/Youtube-Video-Downloader)
