@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything....**
 
-- 📫 How to reach me **mahatopintu63@gmail.com**
+- 📫 How to reach me -  **mahatopintu63@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1INrTOWlWKCAWdjzCCTu2l_rYtY5M5hJP/view?usp=sharing](https://drive.google.com/file/d/1INrTOWlWKCAWdjzCCTu2l_rYtY5M5hJP/view?usp=sharing)
 
