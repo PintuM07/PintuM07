@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **various technologies** for development
 
-- 👨‍💻 All of my projects are available at-  [https://pintum07.github.io/My-Portfolio/](https://pintum07.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at  [https://pintum07.github.io/My-Portfolio/](https://pintum07.github.io/My-Portfolio/)
 
 - 💬 Ask me about **anything....**
 
