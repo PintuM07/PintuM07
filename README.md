@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at  [https://pintum07.github.io/My-Portfolio/](https://pintum07.github.io/My-Portfolio/)
 
-- 💬 Ask me about **anything....**
+- 💬 Ask me about **anything.**
 
 - 📫 How to reach me  **mahatopintu63@gmail.com**
 
