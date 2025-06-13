@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on  [Youtube-Video-Downloader](https://github.com/PintuM07/Youtube-Video-Downloader) project
 
-- 🌱 I’m currently learning **various technologies** for development.
+- 🌱 I’m currently learning **various technologies** for development
 
 - 👨‍💻 All of my projects are available at  [https://pintum07.github.io/My-Portfolio/](https://pintum07.github.io/My-Portfolio/)
 
-- 💬 Ask me about **anything.**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me  **mahatopintu63@gmail.com**
 
