@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pintu.</h1>
+
+<h1 align="center">Hi 👋, I'm Pintu</h1>
 <h3 align="center">Software Developer | Backend Enthusiast | Java | Spring Boot | Full-Stack Explorer</h3>
 
 ---
