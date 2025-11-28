@@ -7,7 +7,7 @@
 🔹 **Current Role**: Analyst Trainee at **TRP Global**  
 🔹 **Actively Building**: [YouTube Video Downloader](https://github.com/PintuM07/Youtube-Video-Downloader)  
 🔹 **Exploring**: Cloud technologies, system design, and modern web development stacks  
-🔹 **Portfolio**: [pintum07.github.io/My-Portfolio](https://pintum07.github.io/My-Portfolio/)  
+🔹 **Portfolio**: [pintum07.github.io/My-Portfolio](https://pintum07.github.io/My_Portfolio/)  
 🔹 **Resume**: [View My Resume](https://drive.google.com/file/d/1INrTOWlWKCAWdjzCCTu2l_rYtY5M5hJP/view?usp=sharing)
 
 💬 **Ask me about**: Java, Spring Boot, REST APIs, SQL/NoSQL Databases, Full-Stack Projects  
