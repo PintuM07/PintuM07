@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm a Software Developer</h1>
-<h3 align="center">Software Developer | Backend Enthusiast | Java | Spring Boot | Full-Stack Explorer</h3>
+<h1 align="center">Hi 👋, I'm Pintu Mahato</h1>
+<h3 align="center">Software Developer | Backend Enthusiast | Java | Spring Boot | React | Full-Stack Explorer</h3>
 
 ---
 
