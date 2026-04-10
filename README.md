@@ -4,7 +4,7 @@
 
 ---
 
-🔹 **Current Role**: Analyst Trainee at **TRP Global**  
+🔹 **Current Role**: Analyst at **TRP Global**  
 🔹 **Actively Building**: [YouTube Video Downloader](https://github.com/PintuM07/Youtube-Video-Downloader)  
 🔹 **Exploring**: Cloud technologies, system design, and modern web development stacks  
 🔹 **Portfolio**: [pintum07.github.io/My-Portfolio](https://pintum07.github.io/My_Portfolio/)  
